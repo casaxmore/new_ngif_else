@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'newNgifElse';
+  usuario1: string;
+  usuario2: string;
 }
